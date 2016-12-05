@@ -1,0 +1,7 @@
+﻿  IntegralDll.cpp
+d:\study\оаип\lb_6\consoleapplication1\individual3\integraldll.cpp(12): warning C4305: аргумент: усечение из "double" к "float"
+d:\study\оаип\lb_6\consoleapplication1\individual3\integraldll.cpp(14): warning C4305: аргумент: усечение из "double" к "float"
+d:\study\оаип\lb_6\consoleapplication1\individual3\integraldll.cpp(16): warning C4305: аргумент: усечение из "double" к "float"
+d:\study\оаип\lb_6\consoleapplication1\individual3\integraldll.cpp(18): warning C4305: аргумент: усечение из "double" к "float"
+  Individual3.vcxproj -> D:\study\ОАИП\lb_6\ConsoleApplication1\Debug\Individual3.exe
+  Individual3.vcxproj -> D:\study\ОАИП\lb_6\ConsoleApplication1\Debug\Individual3.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  dllmain.cpp
+d:\study\оаип\lb_6\consoleapplication1\integraldll\dllmain.cpp(34): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\study\оаип\lb_6\consoleapplication1\integraldll\dllmain.cpp(48): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+     ╤ючфрхЄё  сшсышюЄхър D:\study\╬└╚╧\lb_6\ConsoleApplication1\Debug\IntegralDll.lib ш юс·хъЄ D:\study\╬└╚╧\lb_6\ConsoleApplication1\Debug\IntegralDll.exp
+  IntegralDll.vcxproj -> D:\study\ОАИП\lb_6\ConsoleApplication1\Debug\IntegralDll.dll
+  IntegralDll.vcxproj -> D:\study\ОАИП\lb_6\ConsoleApplication1\Debug\IntegralDll.pdb (Full PDB)
